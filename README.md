@@ -1,1 +1,1 @@
-![Database Structure](https://i.hizliresim.com/grYEQ5.png)
+![Database Structure](https://github.com/mahirozdin/Customizable-PHP-REST-API/blob/master/Database%20Structure/structure.png)
